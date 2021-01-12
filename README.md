@@ -1,2 +1,2 @@
-# Pandas_
-판다스_연습 및 기록
+# Python_study
+Python 문법 및 모듈 Study입니다.
